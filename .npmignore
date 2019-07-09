@@ -1,0 +1,7 @@
+build/*
+.vscode/*
+example/*
+dist/*
+node_modules/*
+.babelrc
+.gitignore
